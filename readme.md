@@ -1,32 +1,38 @@
 <table>
   <tr>
-    <td valign="top" width="50%">
-      
-###  14  
-*Developer. Student. Builder.*  
-Linux, CTFs, robotics, and figuring stuff out.  
-Always learning, always tinkering.  
-      
-Languages I use:
-- Java, Python, C++, more recently rust
-- FRC Java, Arduino
-- HTML/CSS, a bit of JS
+    <td valign="top" width="48%">
+
+<h3>🧑‍💻 14</h3>
+<i>Developer. Student. Builder.</i><br>
+Linux, CTFs, robotics, and figuring stuff out.<br>
+Always learning, always tinkering.
+
+<br>
+
+<b>Languages I use:</b>
+<ul>
+  <li>Java, Python, C++, Rust</li>
+  <li>FRC Java, Arduino</li>
+  <li>HTML/CSS, a bit of JS</li>
+</ul>
 
 ---
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="52%">
 
-### 📊 Stats & Things  
+<h3>📊 Stats & Things</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=radical)
-  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=radical" width="90%"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=radical" width="90%"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=radical" width="90%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=radical)
+<p align="center"><i>"dev can you center this div" - kevin zhao</i></p>
 
-> "dev can you center this div" -kevin zhao
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
