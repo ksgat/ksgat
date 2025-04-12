@@ -2,8 +2,8 @@
   <tr>
     <td valign="top" width="48%">
 
-<h3>🧑‍💻 14</h3>
-<i>Developer. Student. Builder.</i><br>
+
+<i>14, Developer. Student. Builder.</i><br>
 Linux, CTFs, robotics, and figuring stuff out.<br>
 Always learning, always tinkering.
 
@@ -24,11 +24,11 @@ Always learning, always tinkering.
 <h3>📊 Stats & Things</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=radical" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=transparent " width="90%"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=radical" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=transparent " width="90%"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=radical" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=transparent" width="90%"/>
 </p>
 
 <p align="center"><i>"dev can you center this div" - kevin zhao</i></p>
