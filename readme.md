@@ -25,10 +25,7 @@ Always learning, always tinkering.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=transparent" width="90%"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=transparent" width="90%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=transparent" width="90%"/>
+  
 </p>
 
 <p align="center"><i>"dev can you center this div" - kevin zhao</i></p>
