@@ -24,9 +24,9 @@ Always learning, always tinkering.
 <h3>📊 Stats & Things</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=transparent " width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=transparent" width="90%"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=transparent " width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksgat&theme=transparent" width="90%"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgat&layout=compact&theme=transparent" width="90%"/>
 </p>
