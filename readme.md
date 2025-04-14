@@ -3,9 +3,8 @@
     <td valign="top" width="48%">
 
 
-<i>14, Developer. Student. Builder.</i><br>
-Linux, CTFs, robotics, and figuring stuff out.<br>
-Always learning, always tinkering.
+<i>14, Developer. Student.</i><br>
+bum student
 
 <br>
 
