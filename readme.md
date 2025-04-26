@@ -11,8 +11,6 @@ bum student
 <b>Languages I use:</b>
 <ul>
   <li>Java, Python, C++, more recently Rust</li>
-  <li>FRC Java, Arduino</li>
-  <li>HTML/CSS, a bit of JS</li>
 </ul>
 
 ---
