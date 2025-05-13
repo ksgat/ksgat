@@ -1,32 +1,6 @@
-<table>
-  <tr>
-    <td valign="top" width="48%">
-
-
-<i>14, Developer. Student.</i><br>
-bum student
-
-<br>
-
-<b>Languages I use:</b>
-<ul>
-  <li>Java, Python, C++, more recently Rust</li>
-</ul>
-
----
-
-</td>
-<td valign="top" width="52%">
-
-<h3>📊 Stats & Things</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksgat&show_icons=true&theme=transparent" width="90%"/>
-  
-</p>
-
-<p align="center"><i>"dev can you center this div" - kevin zhao</i></p>
-
-</td>
-</tr>
-</table>
+Architecting scalable alignment between cross-domain embedded intelligence and vertically integrated control systems.
+Focused on driving end-to-end firmware lifecycle transformation through proactive abstraction and hardware-informed iteration.
+Leveraging systems-level thinking to enable latency-aware compute orchestration across edge-first environments.
+Championing autonomous pipelines for mission-critical telemetry feedback and real-time actuation resilience.
+Delivering value through synthesis of deterministic signal pathways and async-ready mechanical interfaces.
+Strategic advisor on distributed physical systems with a bias toward execution and sustained throughput optimization.
