@@ -1,4 +1,4 @@
-15 year old programmer
+knows nothing: nothing
 
-tinkering across various tech stacks as i see fit, building both fighting and non fighting robots
- 
+my hackatime
+<img alt="Hackatime activity heatmap." title="Click to view detailed data for each day!" src="https://heatmap.shymike.dev?id=ksgat">
